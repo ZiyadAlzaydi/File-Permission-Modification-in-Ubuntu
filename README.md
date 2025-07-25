@@ -1,5 +1,7 @@
 # File-Permission-Modification-in-Ubuntu
-This terminal session demonstrates the process of modifying file permissions in an Ubuntu environment running on Oracle VirtualBox. The user performed the following actions:
+This terminal session demonstrates the process of modifying file permissions in an Ubuntu environment running on Oracle VirtualBox.
+
+The user performed the following actions:
 Initial Directory Listing:
 
 Used ls -la to display all files with detailed permissions in the Music directory
